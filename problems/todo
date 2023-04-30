@@ -1,0 +1,13 @@
+/home/sakthi/Documents/Programming/c/problems/
+  modulo/
+    dif.c
+    div.c
+    factorial/sieve.c
+    factorial/wilson.c
+  prime/
+    wilson.c
+    soe.c
+    fermat.c
+    lucas.c
+    mr.c
+    ss.c
